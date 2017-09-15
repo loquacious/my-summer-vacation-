@@ -1,0 +1,31 @@
+body {
+    background-color: #d7e0ef;
+    
+    font-family: Impact, Charcoal, sans-serif;
+    color:#28332e;
+}
+
+
+p {
+   font-size: 18px;
+}
+ 
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
